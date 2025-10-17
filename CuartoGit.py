@@ -1,1 +1,0 @@
-print("Este es mi cuarto  Git, práctica")
