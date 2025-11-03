@@ -1,1 +1,1 @@
-print("Hola amiwos de youtube, estamos modificando el git")
+print("Hola amiwos de youtube, estamos modificando el git, este programa de git ha sido subido a git ")
